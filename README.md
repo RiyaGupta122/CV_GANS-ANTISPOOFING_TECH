@@ -99,4 +99,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgements
 
 This project is based on the research repo by [RiyaGupta122](https://github.com/RiyaGupta122/Face_spoofing).
->>>>>>> 0bf264f (Initial commit)
+

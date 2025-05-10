@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CVGANS_ANTISPOOFING
 =======
 # Face Spoofing Detection System
